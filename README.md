@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+Basic project  that follows a YouTube tutorial that queries a movie database API returning a list of movies to a styled front end. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
